@@ -8,6 +8,7 @@ To keep your meetings simple and interactive, Flada helps you share your profess
 [![GitHub stars](https://img.shields.io/github/stars/yashishdua/flada.svg?style=social&label=Star)](https://github.com/yashishdua/flada) [![GitHub forks](https://img.shields.io/github/forks/yashishdua/flada.svg?style=social&label=Fork)](https://github.com/yashishdua/flada/fork) [![GitHub watchers](https://img.shields.io/github/watchers/yashishdua/flada.svg?style=social&label=Watch)](https://github.com/yashishdua/flada) [![GitHub followers](https://img.shields.io/github/followers/yashishdua.svg?style=social&label=Follow)](https://github.com/yashishdua/flada)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/duayashish.svg?style=social)](https://twitter.com/duayashish)
 
+<img src="img/Wires_ScreenShot.png" height="300em" /> <img src="img/SendRequest_ScreenShot.png" height="300em" /> <img src="img/Profile_ScreenShot.png" height="300em" />
 
 # How Flada works?
 
