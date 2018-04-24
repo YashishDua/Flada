@@ -1,3 +1,5 @@
+![Image](img/post_1.png)
+
 # Flada: Add on to your meetings
 
 Flada allows creating your own personal cards which contains all your social media and professional data that you want to share.
@@ -18,3 +20,4 @@ To keep your meetings simple and interactive, Flada helps you share your profess
 + Best part, these cards are saved offline.
 
 # Download the app now!
+https://play.google.com/store/apps/details?id=com.company.devorbs.flada
